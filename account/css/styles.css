@@ -1,0 +1,59 @@
+body{
+  background-color:lightblue !important;
+}
+
+.l-header{
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: var(--z-fixed);
+  background-color: #fff;
+  box-shadow: 0 1px 4px rgba(146,161,176,.15);
+}
+
+.koko{
+  text-align: center;
+  font-size: 30px;
+  font-style: oblique;
+}
+
+#profile-wrapper{
+  text-align: center;
+}
+
+.navbar {
+  background-color: lightblue !important;
+}
+
+#junior{
+  text-align: center;
+  font-size: 30px;
+  font-style: oblique;
+}
+
+.section-title{
+  text-align: center;
+  font-size: 30px;
+  font-style: oblique;
+}
+
+ul{
+  padding: 0;
+    list-style-type: none;
+}
+
+
+.social-links ul, li{
+  list-style-type:none;
+  display: inline-block;
+}
+
+.skills__img{
+  border-radius: .5rem;
+}
+
+.social{
+  width:20px;
+  height: 20px;
+}
